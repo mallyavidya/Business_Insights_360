@@ -23,31 +23,33 @@ The objective was to process and structure Atliq’s historical data to develop 
 
 ## Dashboard Suite Overview
 
-This project includes five dashboards, each tailored to Atliq’s major operational areas: **Finance**, **Sales**, **Marketing**, **Supply Chain**, and **Executive Management**.
+This project includes five dashboards, each tailored to Atliq’s major operational areas: **Finance**, **Sales**, **Marketing**, **Supply Chain**, and **Executive View**.
 
 ---
 
 ### 1. Finance View  
 
-This dashboard highlights **financial trends** like revenue, profit margins, and cost breakdowns over time. The data allows Atliq’s financial team to easily spot profitable regions, cost centers, and growth opportunities.
+This Finance View dashboard in the Business 360 project provides a comprehensive snapshot of Atliq’s financial trends. It highlights revenue, profit margins, and cost breakdowns over time, enabling the finance team to identify profitable regions, manage cost centers, and uncover growth opportunities effectively. Key performance indicators like Net Sales, Gross Margin, and Net Profit percentage provide a quick overview of financial health compared to the previous year. The Profit & Loss statement further breaks down revenue and expenses, helping to pinpoint areas of improvement.
 
-![Finance View Placeholder](Finance_dashboard_placeholder.png)
+Regional and segment analysis offers deeper insights, showcasing the highest and lowest-performing markets and product lines. Monthly trend analysis adds context, allowing the team to spot seasonal patterns or external impacts on performance. This finance view empowers Atliq’s financial team to make data-driven decisions, optimize costs, and prioritize high-growth areas for strategic planning.
+
+![Finance View Placeholder](Finance_dashboard.PNG)
 
 ---
 
 ### 2. Sales View  
 
-Focused on sales data by **product, region, and channel**, this view identifies top-performing areas and highlights seasonal sales patterns, helping Atliq’s sales team optimize product focus and territory management. 
+This Sales View dashboard in the Business 360 project offers a strategic overview of Atliq’s sales performance by product, region, and sales channel. It highlights key metrics like Net Sales and Gross Margin, helping the sales team quickly identify top-performing products and regions. The Customer Performance and Product Performance sections reveal high-revenue segments and profitable customer relationships, while the Performance Matrix shows regional trends, allowing for better territory management. Seasonal patterns in sales data further aid in forecasting and inventory planning, empowering Atliq's sales team to optimize product focus, improve customer targeting, and maximize regional sales growth.
 
-![Sales View Placeholder](Sales_dashboard_placeholder.png)
+![Sales View Placeholder](Sales_dashboard.PNG)
 
 ---
 
 ### 3. Marketing View  
 
-This dashboard evaluates campaign effectiveness by tracking **ROI, customer acquisition metrics,** and **campaign engagement**. It enables the marketing team to invest strategically, focusing on campaigns with the highest customer impact.
+This Marketing View dashboard in the Business 360 project provides insights into campaign effectiveness by tracking key metrics like ROI, customer acquisition, and engagement rates. It enables Atliq’s marketing team to evaluate each campaign’s impact and identify high-performing initiatives. By comparing these metrics across campaigns, the team can strategically allocate resources toward campaigns that drive the most customer engagement and deliver the best return on investment. This data-driven approach helps optimize marketing spend, increase customer acquisition efficiency, and ultimately improve the overall impact of Atliq's marketing strategy.
 
-![Marketing View Placeholder](Marketing_dashboard_placeholder.png)
+![Marketing View Placeholder](Marketing_dashboard.PNG)
 
 ---
 
@@ -102,4 +104,5 @@ To capitalize on these insights, the following actions are recommended:
 
 ---
 
-**Presented by Vidyalaxmi Mallya, Data Analyst**
+**Presented by Vidyalaxmi Mallya, Data Analyst** 
+
