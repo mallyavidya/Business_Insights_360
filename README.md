@@ -29,7 +29,7 @@ This project includes five dashboards, each tailored to Atliq’s major operatio
 
 ### 1. Finance View  
 
-<div align="justify">This Finance View dashboard in the Business 360 project provides a comprehensive snapshot of Atliq’s financial trends. It highlights revenue, profit margins, and cost breakdowns over time, enabling the finance team to identify profitable regions, manage cost centers, and uncover growth opportunities effectively. Key performance indicators like Net Sales, Gross Margin, and Net Profit percentage provide a quick overview of financial health compared to the previous year. The Profit & Loss statement further breaks down revenue and expenses, helping to pinpoint areas of improvement.
+<div align="justify"> This Finance View dashboard in the Business 360 project provides a comprehensive snapshot of Atliq’s financial trends. It highlights revenue, profit margins, and cost breakdowns over time, enabling the finance team to identify profitable regions, manage cost centers, and uncover growth opportunities effectively. Key performance indicators like Net Sales, Gross Margin, and Net Profit percentage provide a quick overview of financial health compared to the previous year. The Profit & Loss statement further breaks down revenue and expenses, helping to pinpoint areas of improvement.
 
 Regional and segment analysis offers deeper insights, showcasing the highest and lowest-performing markets and product lines. Monthly trend analysis adds context, allowing the team to spot seasonal patterns or external impacts on performance. This finance view empowers Atliq’s financial team to make data-driven decisions, optimize costs, and prioritize high-growth areas for strategic planning. </div>
 
@@ -55,17 +55,17 @@ This Marketing View dashboard in the Business 360 project provides insights into
 
 ### 4. Supply Chain View  
 
-The supply chain view tracks **inventory levels, order fulfillment rates, and lead times** to optimize Atliq’s inventory management and reduce stock shortages, directly supporting smoother operations and customer satisfaction.
+This Supply Chain View dashboard in the Business 360 project provides insights into Atliq’s inventory management by tracking forecast accuracy, net error, and product availability metrics. Key metrics by customer and product segments highlight inventory risks, including excess inventory (EI) and out-of-stock (OOS) items, which helps in aligning stock levels with demand. The Net Error Trend visual aids in understanding forecasting accuracy over time, allowing the supply chain team to identify and correct issues promptly. By optimizing inventory levels and reducing stock shortages, Atliq can enhance order fulfillment rates, minimize lead times, and improve overall customer satisfaction.
 
-![Supply Chain View Placeholder](Supply_chain_dashboard_placeholder.png)
+![Supply Chain View Placeholder](Supply_chain_dashboard.PNG)
 
 ---
 
 ### 5. Executive View  
 
-At the highest level, the Executive View presents a consolidated summary of Atliq’s overall performance, highlighting KPIs such as **revenue growth, market share, and customer satisfaction**. This dashboard is designed to give top-level managers a quick yet thorough view of the company’s health.
+The Executive View dashboard in the Business 360 project provides a high-level summary of Atliq’s overall performance, designed for quick insights into the company’s health. It highlights key performance indicators like Net Sales, Gross Margin, and Forecast Accuracy, allowing executives to assess revenue growth, market share, and profitability at a glance. Insights by subzone and risk levels in inventory help in identifying regional strengths and potential challenges. The dashboard also includes market share trends and top customers/products by revenue, supporting strategic decision-making around market positioning and customer focus. This consolidated view empowers Atliq’s leadership to make data-driven decisions for sustainable growth.
 
-![Executive View Placeholder](Executive_dashboard_placeholder.png)
+![Executive View Placeholder](Executive_dashboard.PNG)
 
 ---
 
@@ -96,7 +96,7 @@ To capitalize on these insights, the following actions are recommended:
 
 - **Power BI**: For creating a suite of interactive, visually appealing dashboards.
 - **Power Query**: To process and clean data for a smooth analytical experience.
-- **DAX**: For custom calculations, such as financial ratios, ROI, and growth metrics, supporting in-depth analysis.
+- **DAX**: For custom calculations, such as financial measures, ROI, and growth metrics, supporting in-depth analysis.
 
 ---
 
