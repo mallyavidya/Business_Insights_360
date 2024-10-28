@@ -29,9 +29,9 @@ This project includes five dashboards, each tailored to Atliq’s major operatio
 
 ### 1. Finance View  
 
-This Finance View dashboard in the Business 360 project provides a comprehensive snapshot of Atliq’s financial trends. It highlights revenue, profit margins, and cost breakdowns over time, enabling the finance team to identify profitable regions, manage cost centers, and uncover growth opportunities effectively. Key performance indicators like Net Sales, Gross Margin, and Net Profit percentage provide a quick overview of financial health compared to the previous year. The Profit & Loss statement further breaks down revenue and expenses, helping to pinpoint areas of improvement.
+<div align="justify">This Finance View dashboard in the Business 360 project provides a comprehensive snapshot of Atliq’s financial trends. It highlights revenue, profit margins, and cost breakdowns over time, enabling the finance team to identify profitable regions, manage cost centers, and uncover growth opportunities effectively. Key performance indicators like Net Sales, Gross Margin, and Net Profit percentage provide a quick overview of financial health compared to the previous year. The Profit & Loss statement further breaks down revenue and expenses, helping to pinpoint areas of improvement.
 
-Regional and segment analysis offers deeper insights, showcasing the highest and lowest-performing markets and product lines. Monthly trend analysis adds context, allowing the team to spot seasonal patterns or external impacts on performance. This finance view empowers Atliq’s financial team to make data-driven decisions, optimize costs, and prioritize high-growth areas for strategic planning.
+Regional and segment analysis offers deeper insights, showcasing the highest and lowest-performing markets and product lines. Monthly trend analysis adds context, allowing the team to spot seasonal patterns or external impacts on performance. This finance view empowers Atliq’s financial team to make data-driven decisions, optimize costs, and prioritize high-growth areas for strategic planning. </div>
 
 ![Finance View Placeholder](Finance_dashboard.PNG)
 
