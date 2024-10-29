@@ -17,7 +17,7 @@
 
 ## Objective
 
-<div align="justify">The objective was to process and structure Atliq’s historical data to develop key business insights, using **Power Query** for data cleaning and **DAX** for custom calculations. The result is a suite of interactive dashboards, providing department-specific intelligence. </div>
+<div align="justify">The objective was to process and structure Atliq’s historical data to develop key business insights, using ** Power Query ** for data cleaning and ** DAX ** for custom calculations. The result is a suite of interactive dashboards, providing department-specific intelligence. </div>
 
 ---
 
