@@ -11,13 +11,13 @@
 
 ### Background  
 
-Atliq, a leading IT hardware provider, faced challenges in efficiently managing and analyzing performance across finance, sales, marketing, supply chain, and executive decision-making. I created a series of interactive dashboards to give Atliq’s leadership a holistic view of these functions, enabling them to make data-driven decisions for strategic growth. Each dashboard targets a specific department, delivering actionable insights to support Atliq’s market objectives.
+<div align="justify">Atliq, a leading IT hardware provider, faced challenges in efficiently managing and analyzing performance across finance, sales, marketing, supply chain, and executive decision-making. I created a series of interactive dashboards to give Atliq’s leadership a holistic view of these functions, enabling them to make data-driven decisions for strategic growth. Each dashboard targets a specific department, delivering actionable insights to support Atliq’s market objectives.</div>
 
 ---
 
 ## Objective
 
-The objective was to process and structure Atliq’s historical data to develop key business insights, using **Power Query** for data cleaning and **DAX** for custom calculations. The result is a suite of interactive dashboards, providing department-specific intelligence.
+<div align="justify">The objective was to process and structure Atliq’s historical data to develop key business insights, using **Power Query** for data cleaning and **DAX** for custom calculations. The result is a suite of interactive dashboards, providing department-specific intelligence. </div>
 
 ---
 
@@ -39,7 +39,7 @@ Regional and segment analysis offers deeper insights, showcasing the highest and
 
 ### 2. Sales View  
 
-This Sales View dashboard in the Business 360 project offers a strategic overview of Atliq’s sales performance by product, region, and sales channel. It highlights key metrics like Net Sales and Gross Margin, helping the sales team quickly identify top-performing products and regions. The Customer Performance and Product Performance sections reveal high-revenue segments and profitable customer relationships, while the Performance Matrix shows regional trends, allowing for better territory management. Seasonal patterns in sales data further aid in forecasting and inventory planning, empowering Atliq's sales team to optimize product focus, improve customer targeting, and maximize regional sales growth.
+<div align="justify">This Sales View dashboard in the Business 360 project offers a strategic overview of Atliq’s sales performance by product, region, and sales channel. It highlights key metrics like Net Sales and Gross Margin, helping the sales team quickly identify top-performing products and regions. The Customer Performance and Product Performance sections reveal high-revenue segments and profitable customer relationships, while the Performance Matrix shows regional trends, allowing for better territory management. Seasonal patterns in sales data further aid in forecasting and inventory planning, empowering Atliq's sales team to optimize product focus, improve customer targeting, and maximize regional sales growth.</div>
 
 ![Sales View Placeholder](Sales_dashboard.PNG)
 
@@ -47,7 +47,7 @@ This Sales View dashboard in the Business 360 project offers a strategic overvie
 
 ### 3. Marketing View  
 
-This Marketing View dashboard in the Business 360 project provides insights into campaign effectiveness by tracking key metrics like ROI, customer acquisition, and engagement rates. It enables Atliq’s marketing team to evaluate each campaign’s impact and identify high-performing initiatives. By comparing these metrics across campaigns, the team can strategically allocate resources toward campaigns that drive the most customer engagement and deliver the best return on investment. This data-driven approach helps optimize marketing spend, increase customer acquisition efficiency, and ultimately improve the overall impact of Atliq's marketing strategy.
+<div align="justify">This Marketing View dashboard in the Business 360 project provides insights into campaign effectiveness by tracking key metrics like ROI, customer acquisition, and engagement rates. It enables Atliq’s marketing team to evaluate each campaign’s impact and identify high-performing initiatives. By comparing these metrics across campaigns, the team can strategically allocate resources toward campaigns that drive the most customer engagement and deliver the best return on investment. This data-driven approach helps optimize marketing spend, increase customer acquisition efficiency, and ultimately improve the overall impact of Atliq's marketing strategy.</div>
 
 ![Marketing View Placeholder](Marketing_dashboard.PNG)
 
@@ -55,7 +55,7 @@ This Marketing View dashboard in the Business 360 project provides insights into
 
 ### 4. Supply Chain View  
 
-This Supply Chain View dashboard in the Business 360 project provides insights into Atliq’s inventory management by tracking forecast accuracy, net error, and product availability metrics. Key metrics by customer and product segments highlight inventory risks, including excess inventory (EI) and out-of-stock (OOS) items, which helps in aligning stock levels with demand. The Net Error Trend visual aids in understanding forecasting accuracy over time, allowing the supply chain team to identify and correct issues promptly. By optimizing inventory levels and reducing stock shortages, Atliq can enhance order fulfillment rates, minimize lead times, and improve overall customer satisfaction.
+<div align="justify">This Supply Chain View dashboard in the Business 360 project provides insights into Atliq’s inventory management by tracking forecast accuracy, net error, and product availability metrics. Key metrics by customer and product segments highlight inventory risks, including excess inventory (EI) and out-of-stock (OOS) items, which helps in aligning stock levels with demand. The Net Error Trend visual aids in understanding forecasting accuracy over time, allowing the supply chain team to identify and correct issues promptly. By optimizing inventory levels and reducing stock shortages, Atliq can enhance order fulfillment rates, minimize lead times, and improve overall customer satisfaction.</div>
 
 ![Supply Chain View Placeholder](Supply_chain_dashboard.PNG)
 
@@ -63,7 +63,7 @@ This Supply Chain View dashboard in the Business 360 project provides insights i
 
 ### 5. Executive View  
 
-The Executive View dashboard in the Business 360 project provides a high-level summary of Atliq’s overall performance, designed for quick insights into the company’s health. It highlights key performance indicators like Net Sales, Gross Margin, and Forecast Accuracy, allowing executives to assess revenue growth, market share, and profitability at a glance. Insights by subzone and risk levels in inventory help in identifying regional strengths and potential challenges. The dashboard also includes market share trends and top customers/products by revenue, supporting strategic decision-making around market positioning and customer focus. This consolidated view empowers Atliq’s leadership to make data-driven decisions for sustainable growth.
+<div align="justify">The Executive View dashboard in the Business 360 project provides a high-level summary of Atliq’s overall performance, designed for quick insights into the company’s health. It highlights key performance indicators like Net Sales, Gross Margin, and Forecast Accuracy, allowing executives to assess revenue growth, market share, and profitability at a glance. Insights by subzone and risk levels in inventory help in identifying regional strengths and potential challenges. The dashboard also includes market share trends and top customers/products by revenue, supporting strategic decision-making around market positioning and customer focus. This consolidated view empowers Atliq’s leadership to make data-driven decisions for sustainable growth.</div>
 
 ![Executive View Placeholder](Executive_dashboard.PNG)
 
